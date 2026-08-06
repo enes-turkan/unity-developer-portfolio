@@ -14,7 +14,7 @@ With a track record of developing and publishing multiple games across global di
 
 [The Office Killer](https://github.com/enes-turkan/unity-developer-portfolio/blob/main/the-office-killer-info.md)
 
-[PC Building Nightmare](link_buraya)
+[PC Building Nightmare](https://github.com/enes-turkan/unity-developer-portfolio/blob/main/pc-building-nightmare-info.md)
 
 📱 **Mobile / iOS & Android**
 

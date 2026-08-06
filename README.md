@@ -54,7 +54,6 @@ Beyond game development, I have experience working as a **Search Engine Evaluato
 ---
 
 ### 📫 Let's Connect!
-* **Email:** enesturkandev@gmail.com
 * **Location:** Türkiye
 * **Portfolio/Resume:** [Connect with me on LinkedIn](#) *(LinkedIn linkini buraya ekleyebilirsin)*
 

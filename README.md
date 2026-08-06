@@ -7,24 +7,23 @@ I am a results-driven game developer with a strong foundation in Unity and C#, s
 
 With a track record of developing and publishing multiple games across global digital storefronts, I focus on scalable architecture, engaging core mechanics, and seamless user experiences.
 
----
 
-### UNITY PROJECTS
-#💻 **PC**
+
+# UNITY PROJECTS
+### 💻 **PC** ####
 
 [The Office Killer](https://github.com/enes-turkan/unity-developer-portfolio/blob/main/the-office-killer-info.md)
 
 [PC Building Nightmare](https://github.com/enes-turkan/unity-developer-portfolio/blob/main/pc-building-nightmare-info.md)
 
 
-
-#📱 **Mobile / iOS & Android**
+### 📱 **Mobile / iOS & Android** 
 
 Apple Store : https://apps.apple.com/us/developer/enes-turkan/id6778848256
-- Achived about 390 DAU on Dreamcore Anomaly Stalker at Apple Store organically.
+- Achieved about 390 DAU and 10k+ downloads on Dreamcore Anomaly Stalker at Apple Store full organically.
 
 Google Play Store : https://play.google.com/store/apps/dev?id=9062024069898251791
-- Achived about 500 DAU on Dreamcore Anomaly Stalker at Google Play Store organically.
+- Achieved about 500 DAU and 10k+ downloads of Dreamcore Anomaly Stalker at Google Play Store full organically.
 
 [Spiky Jump(2019)](https://www.youtube.com/watch?v=wlITkXB5zVQ)
 

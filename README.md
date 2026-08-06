@@ -18,9 +18,17 @@ With a track record of developing and publishing multiple games across global di
 
 📱 **Mobile / iOS & Android**
 
-[The Office Killer](link_buraya)
+Apple Store : https://apps.apple.com/us/developer/enes-turkan/id6778848256
 
-[PC Projesi 2](link_buraya)
+Google Play Store : https://play.google.com/store/apps/dev?id=9062024069898251791
+
+[Spiky Jump(2019)](https://www.youtube.com/watch?v=wlITkXB5zVQ)
+
+[Pencil Simple Game(2023)](https://www.youtube.com/watch?v=VSqHybAEjn8)
+
+[Hit It Up!(2020)](https://www.youtube.com/watch?v=mN_r8GN877Y)
+
+[Flappy Bottles(2024)](https://www.youtube.com/watch?v=QYWRPlF8RVs)
 
 ---
 

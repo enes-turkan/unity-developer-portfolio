@@ -12,9 +12,9 @@ With a track record of developing and publishing multiple games across global di
 ### UNITY PROJECTS
 💻 **PC**
 
-[The Office Killer](link_buraya)
+[The Office Killer](https://github.com/enes-turkan/unity-developer-portfolio/blob/main/the-office-killer-info.md)
 
-[PC Projesi 2](link_buraya)
+[PC Building Nightmare](link_buraya)
 
 📱 **Mobile / iOS & Android**
 

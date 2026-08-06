@@ -49,4 +49,5 @@ Avarage fps: 40-60fps
 
 # Planning Brainstorming & GD On Miro:
 
+<img src="./images/miro-plan.png" width="800" alt="Miro Brainstorming">
 

@@ -10,17 +10,21 @@ With a track record of developing and publishing multiple games across global di
 ---
 
 ### UNITY PROJECTS
-💻 **PC**
+#💻 **PC**
 
 [The Office Killer](https://github.com/enes-turkan/unity-developer-portfolio/blob/main/the-office-killer-info.md)
 
 [PC Building Nightmare](https://github.com/enes-turkan/unity-developer-portfolio/blob/main/pc-building-nightmare-info.md)
 
-📱 **Mobile / iOS & Android**
+
+
+#📱 **Mobile / iOS & Android**
 
 Apple Store : https://apps.apple.com/us/developer/enes-turkan/id6778848256
+- Achived about 390 DAU on Dreamcore Anomaly Stalker at Apple Store organically.
 
 Google Play Store : https://play.google.com/store/apps/dev?id=9062024069898251791
+- Achived about 500 DAU on Dreamcore Anomaly Stalker at Google Play Store organically.
 
 [Spiky Jump(2019)](https://www.youtube.com/watch?v=wlITkXB5zVQ)
 

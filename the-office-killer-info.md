@@ -49,7 +49,7 @@ Avarage fps: 40-60fps
 
 # Planning Brainstorming & GD On Miro:
 
-<img src="./enes-turkan/unity-developer-portfolio/blob/main/images2/miro1.png" width="800" alt="Miro Brainstorming">
+<img src="https://raw.githubusercontent.com/enes-turkan/unity-developer-portfolio/main/images2/miro1.png" width="800" alt="Miro Brainstorming 1">
 
-<img src="./enes-turkan/unity-developer-portfolio/blob/main/images2/miro2.png" width="800" alt="Miro Brainstorming">
+<img src="https://raw.githubusercontent.com/enes-turkan/unity-developer-portfolio/main/images2/miro2.png" width="800" alt="Miro Brainstorming 2">
 

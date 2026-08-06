@@ -10,17 +10,17 @@ With a track record of developing and publishing multiple games across global di
 ---
 
 ### UNITY PROJECTS
-💻 **PC / Steam**
-│
-├── [The Office Killer](link_buraya)
-└── [PC Projesi 2](link_buraya)
+💻 **PC**
+
+[The Office Killer](link_buraya)
+
+[PC Projesi 2](link_buraya)
 
 📱 **Mobile / iOS & Android**
-│
-├── [Dreamcore Anomaly Stalker](link_buraya)
-├── [Mobil Proje 2](link_buraya)
-├── [Mobil Proje 3](link_buraya)
-└── [Mobil Proje 4](link_buraya)
+
+[The Office Killer](link_buraya)
+
+[PC Projesi 2](link_buraya)
 
 ---
 

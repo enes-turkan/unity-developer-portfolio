@@ -53,8 +53,6 @@ Beyond game development, I have experience working as a **Search Engine Evaluato
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Let's Connect And Build New Ideas Together!
 * **Location:** Türkiye
-* **Portfolio/Resume:** [Connect with me on LinkedIn](#) *(LinkedIn linkini buraya ekleyebilirsin)*
-
-> *"I build complete game loops, from the first line of code to the final store rollout."*
+* **LinkedIn:** https://www.linkedin.com/in/enes-t%C3%BCrkan-196474288/

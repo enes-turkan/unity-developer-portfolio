@@ -13,7 +13,7 @@ Overall gameplay from random players:
 
 (EN) https://www.youtube.com/watch?v=VQZyfborlwg
 
-(EN-UK -OLD VERSION) https://www.youtube.com/watch?v=O3KssXJnFNk
+(EN-UK) https://www.youtube.com/watch?v=O3KssXJnFNk (OLD VERSION)
 
 (TR) https://www.youtube.com/watch?v=cLmAbImyAHw
 

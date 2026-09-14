@@ -10,17 +10,17 @@ Overall gameplay from random players:
 ---------------------
 
 (EN) 
-- https://www.youtube.com/watch?v=_tDALbL9qes
+https://www.youtube.com/watch?v=_tDALbL9qes
 
 (EN) 
-- https://www.youtube.com/watch?v=VQZyfborlwg
+https://www.youtube.com/watch?v=VQZyfborlwg
 
 (EN-UK) 
-- https://www.youtube.com/watch?v=O3KssXJnFNk (OLD VERSION)
+https://www.youtube.com/watch?v=O3KssXJnFNk (OLD VERSION)
 
 (TR)
-- https://youtu.be/WsE5TD_V56s?t=3543
-- https://www.youtube.com/watch?v=cLmAbImyAHw
+https://youtu.be/WsE5TD_V56s?t=3543
+https://www.youtube.com/watch?v=cLmAbImyAHw
 
 
 # Test results:

@@ -6,7 +6,7 @@ Demo: https://steamdb.info/app/3676480/charts/#max
 
 SDKs: Photon PUN, Unity Vivox SDK, Steam Cloud, SteamworksNET SDKs
 
-Overall gameplay from random players:
+Overall gameplay from random streamers:
 ---------------------
 
 (EN) 
@@ -20,6 +20,7 @@ https://www.youtube.com/watch?v=O3KssXJnFNk (OLD VERSION)
 
 (TR)
 https://youtu.be/WsE5TD_V56s?t=3543
+
 https://www.youtube.com/watch?v=cLmAbImyAHw
 
 

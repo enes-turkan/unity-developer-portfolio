@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=_tDALbL9qes
 
 [EN - Mr Sark Highlights]
 
-https://www.youtube.com/watch?v=VQZyfborlwg
+https://youtu.be/VQZyfborlwg?t=2718
 
 [TR - Flavor]
 

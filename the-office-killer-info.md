@@ -10,15 +10,19 @@ Overall gameplay from random streamers:
 ---------------------
 
 (EN) 
+
 https://www.youtube.com/watch?v=_tDALbL9qes
 
 (EN) 
+
 https://www.youtube.com/watch?v=VQZyfborlwg
 
 (EN-UK) 
+
 https://www.youtube.com/watch?v=O3KssXJnFNk (OLD VERSION)
 
 (TR)
+
 https://youtu.be/WsE5TD_V56s?t=3543
 
 https://www.youtube.com/watch?v=cLmAbImyAHw
